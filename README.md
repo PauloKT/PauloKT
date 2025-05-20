@@ -19,7 +19,7 @@
 <h3>🠞 Known Languages — ❛🌍❜</h3>
 <p>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg'>
-  <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg'>
+  <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg'>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg'>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg'>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg'>
