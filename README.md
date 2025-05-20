@@ -25,6 +25,7 @@
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg'>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg'>
   <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg'>
+  <img height="40" width="50" src='https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg'>
   <img width=200 height=150 align="right" src="https://media.tenor.com/Zm7tApUbKXQAAAAM/penguins-of-madagascar-penguin.gif"/>
 </p>
 
